@@ -1,0 +1,6 @@
+glew     -> 2.1.0
+glm      -> 0.9.9-a2
+SDL2     -> 2.0.8
+entt     -> 2.7.0
+ImGUI    -> 
+yaml-cpp -> 1.2
