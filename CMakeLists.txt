@@ -12,8 +12,6 @@ set_target_properties (uninstall PROPERTIES FOLDER "qub3d-libdeps/SDL2")
 add_subdirectory(glew/build/cmake)
 set_target_properties (glew PROPERTIES FOLDER "qub3d-libdeps/glew")
 set_target_properties (glew_s PROPERTIES FOLDER "qub3d-libdeps/glew")
-set_target_properties (glewinfo PROPERTIES FOLDER "qub3d-libdeps/glew")
-set_target_properties (visualinfo PROPERTIES FOLDER "qub3d-libdeps/glew")
 
 SET(YAML_CPP_BUILD_TESTS OFF CACHE BOOL "Don't build yaml-cpp tests")
 add_subdirectory(yaml-cpp)
