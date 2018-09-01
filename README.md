@@ -18,12 +18,6 @@ This project is written by awesome open source contributors, including...
 
 Thank you also to our many contributors!
 
-## Dependencies
-
-This project depends on the following:
-
-* [Qub3d Engine](https://github.com/qub3d/qub3dengine)
-
 ## Contributions
 
 All contributions are licensed to us under our
